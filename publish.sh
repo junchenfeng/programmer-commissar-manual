@@ -3,6 +3,10 @@
 # install the plugins and build the static site
 gitbook install && gitbook build
 
+git add .
+git commit -m"update master"
+git push origin master
+
 # checkout to the gh-pages branch
 git checkout gh-pages
 
