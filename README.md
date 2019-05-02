@@ -39,9 +39,7 @@
 ## 讲什么
 手册一共分为12章。前6章讲普适的团队管理，后6章结合编程的业务点讲技术团队的管理。
 
-羁绊与愿景（第一章）、批评与问责（第二章）、绩效与激励（第三章）描述团队的制度文化建设。它是对于《团队协作的五大障碍》以及《原则》的归纳和引申。
-
-人才（第四章）、教练（第五章）、团队鲁棒性（第六章）描述团队的人力资源设计。这三章是对于《定义团队:谷歌如何工作》以及《赋能》的归纳和引申。
+羁绊与愿景（第一章）、批评与问责（第二章）、绩效与激励（第三章）描述团队的制度文化建设。人才（第四章）、教练（第五章）描述团队的人力资源建设。商业备忘录写作（第六章）讨论如何有效地“画PPT”。前五章基本对应《[团队协作的五大障碍](https://www.amazon.cn/dp/B00EY91BCE/ref=sr_1_1?__mk_zh_CN=%E4%BA%9A%E9%A9%AC%E9%80%8A%E7%BD%91%E7%AB%99&crid=3CNEC16DWZX7U&keywords=%E5%9B%A2%E9%98%9F%E5%8D%8F%E4%BD%9C%E7%9A%84%E4%BA%94%E5%A4%A7%E9%9A%9C%E7%A2%8D&qid=1556801671&s=gateway&sprefix=%E5%9B%A2%E9%98%9F%E5%8D%8F%E4%BD%9C%E7%9A%84%2Caps%2C121&sr=8-1)》，《[Radical Candor](https://www.amazon.com/Radical-Candor-Kim-Scott/dp/B01KTIEFEE)》/《[Winning Well](https://www.amazon.com/Winning-Well-Managers-Getting-Results/dp/1511370912)》，《[The Org](https://www.amazon.com/Org-Underlying-Logic-Office-ebook/dp/B007ZG30JK/ref=dp_kinw_strp_1)》，《[原则](https://www.amazon.cn/gp/product/B078FFX8B6/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1)》和《高绩效教练》。第六章的内容来自于芝加哥大学Professional Writing课程和Amazon的备忘录指导原则。
 
 敏捷（第七章）、BDD/TDD（第八章）、结对编程（第九章）描述技术团队的工作方式。它是对于《敏捷革命》和《敏捷软件开发：原则、模式与实践》中管理思想的归纳和引申。
 
